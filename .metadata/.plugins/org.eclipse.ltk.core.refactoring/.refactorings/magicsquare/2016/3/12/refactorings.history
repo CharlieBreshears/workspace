@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;magicsquare.magicSquare.main().input&apos; in &apos;magicsquare.magicSquare.main()&apos; to field&#x0A;- Original project: &apos;magicsquare&apos;&#x0A;- Original element: &apos;magicsquare.magicSquare.main().input&apos;&#x0A;- Field name: &apos;input&apos;&#x0A;- Initialize field in method&#x0A;- Declared visibility: &apos;private&apos;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;input&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;magicsquare{magicSquare.java" name="input" selection="223 30" stamp="1458076598175" static="true" version="1.0" visibility="2"/>
+</session>
